@@ -1,0 +1,1594 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"jne_",
+				"jne_api_log	function"
+			],
+			[
+				"JNE",
+				"JNESettings	class"
+			],
+			[
+				"recipi",
+				"recipient_userid	param"
+			],
+			[
+				"generate_jn",
+				"generate_jne_report_by_orderids"
+			],
+			[
+				"sned",
+				"sender_code	statement"
+			],
+			[
+				"get_add",
+				"get_address_code_for_online_booking"
+			],
+			[
+				"get_ad",
+				"get_address_code_for_online_booking"
+			],
+			[
+				"class",
+				"classmethod"
+			],
+			[
+				"cls",
+				"classmethod	class"
+			],
+			[
+				"service",
+				"service_type	statement"
+			],
+			[
+				"update_log",
+				"update_logistic_data	statement"
+			],
+			[
+				"set_refun",
+				"set_refund_guaranteed	statement"
+			],
+			[
+				"callba",
+				"callback_func	statement"
+			],
+			[
+				"display_shi",
+				"display_shipping_info	statement"
+			],
+			[
+				"update_logistic_status",
+				"update_logistic_status_params	statement"
+			],
+			[
+				"consign",
+				"consignment_no	statement"
+			],
+			[
+				"update_logisitc_status",
+				"update_logistic_status_params	statement"
+			],
+			[
+				"update_logstic_stat",
+				"update_logistic_status_params"
+			],
+			[
+				"CANCEL",
+				"CANCELED	statement"
+			],
+			[
+				"buyer",
+				"buyer_name	statement"
+			],
+			[
+				"start_",
+				"start_matching_time	statement"
+			],
+			[
+				"mobiel",
+				"mobile_time	statement"
+			],
+			[
+				"overall",
+				"overall_start_time	statement"
+			],
+			[
+				"address",
+				"address_location_info	statement"
+			],
+			[
+				"check",
+				"checkouts	statement"
+			],
+			[
+				"can_",
+				"can_cod"
+			],
+			[
+				"model",
+				"model_get_optional_result"
+			],
+			[
+				"get_logistic_lo",
+				"get_logistic_location_info"
+			],
+			[
+				"get_log",
+				"get_logistic_location_info"
+			],
+			[
+				"confi",
+				"confirmation_navigation	statement"
+			],
+			[
+				"confir",
+				"confirmation_navigation	statement"
+			],
+			[
+				"config",
+				"confirmation_navigation"
+			],
+			[
+				"payment",
+				"payment_navigation	statement"
+			],
+			[
+				"bridge",
+				"bridgeCallHandler"
+			],
+			[
+				"Paym",
+				"PaymentChannelListState"
+			],
+			[
+				"Pamy",
+				"PaymentChannelListComponent"
+			],
+			[
+				"Pay",
+				"PaymentChannelListComponent"
+			],
+			[
+				"PaymentCha",
+				"PaymentChannelListState"
+			],
+			[
+				"DRAGON",
+				"DRAGONPAY_FLAG"
+			],
+			[
+				"carrier",
+				"carrier_shipping_fee	statement"
+			],
+			[
+				"vir",
+				"virtual_account"
+			],
+			[
+				"paymne",
+				"payment_channel"
+			],
+			[
+				"payment_chann",
+				"payment_channel_extra	statement"
+			],
+			[
+				"banne",
+				"banned_userids	statement"
+			],
+			[
+				"SELECTED_CHANNEL_",
+				"SELECTED_CHANNEL_ID"
+			],
+			[
+				"PaymentC",
+				"PaymentChannelListState"
+			],
+			[
+				"PaymetnCh",
+				"PaymentChannelListState"
+			],
+			[
+				"SELECTED",
+				"SELECTED_CHANNEL_COMPONENT"
+			],
+			[
+				"chec",
+				"CHECKOUT_ID"
+			],
+			[
+				"SELEC",
+				"SELECTED_CHANNEL_COMPONENT"
+			],
+			[
+				"SELECTE",
+				"SELECTED_CHANNEL_ID"
+			],
+			[
+				"Checkout",
+				"CheckoutNavigator"
+			],
+			[
+				"_selectedCha",
+				"_selectedChannelCategory"
+			],
+			[
+				"_selec",
+				"_selectedChannelCategory"
+			],
+			[
+				"getSelected",
+				"getSelectedChannelCategory"
+			],
+			[
+				"client",
+				"client_shoporders	statement"
+			],
+			[
+				"SLE",
+				"SELECTED_OPTION_SEL"
+			],
+			[
+				"getSelc",
+				"getSelectedChannelComponent"
+			],
+			[
+				"CheckoutPay",
+				"CheckoutPaymentState"
+			],
+			[
+				"chan",
+				"channelComponents"
+			],
+			[
+				"selected",
+				"selectedCard"
+			],
+			[
+				"sele",
+				"selected_card"
+			],
+			[
+				"channe",
+				"channelId"
+			],
+			[
+				"get",
+				"getComponentByChannelId"
+			],
+			[
+				"selectedCar",
+				"selectedCardNo"
+			],
+			[
+				"getCha",
+				"getComponentByChannelId"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"selectedC",
+				"selectedChannelComponent"
+			],
+			[
+				"default",
+				"default_channelid	statement"
+			],
+			[
+				"defaul",
+				"default_channelid	statement"
+			],
+			[
+				"logi",
+				"logistics_info"
+			],
+			[
+				"log",
+				"logistics_info"
+			],
+			[
+				"procu",
+				"products_info	statement"
+			],
+			[
+				"produt",
+				"products_info	statement"
+			],
+			[
+				"logistic",
+				"logistic_channelid	statement"
+			],
+			[
+				"logis",
+				"logistic_channelid"
+			],
+			[
+				"cache",
+				"cached	param"
+			],
+			[
+				"Check",
+				"CheckoutPaymentComponent"
+			],
+			[
+				"navigate",
+				"navigateUrl"
+			],
+			[
+				"redi",
+				"redirect_url"
+			],
+			[
+				"payem",
+				"payment_channel	statement"
+			],
+			[
+				"navgate",
+				"navigateUrl"
+			],
+			[
+				"getSelectedCre",
+				"getSelectedCreditCardBankId"
+			],
+			[
+				"prev",
+				"prevChannel"
+			],
+			[
+				"Che",
+				"CheckoutPaymentComponent"
+			],
+			[
+				"channel",
+				"channel-disabled"
+			],
+			[
+				"prevC",
+				"prevChannelId"
+			],
+			[
+				"Checkou",
+				"CheckoutPaymentState"
+			],
+			[
+				"_selecte",
+				"_selectedChannelComponent"
+			],
+			[
+				"_selected",
+				"_selectedChannelId"
+			],
+			[
+				"ic_ar",
+				"ic_arrow_up"
+			],
+			[
+				"selectedCreditCardB",
+				"getSelectedCreditCardBankId"
+			],
+			[
+				"selece",
+				"selectedCreditCardId"
+			],
+			[
+				"selet",
+				"selectedCreditCardId"
+			],
+			[
+				"promotion",
+				"promotion_banks"
+			],
+			[
+				"PAY_C",
+				"PAY_CYBERSOURCE"
+			],
+			[
+				"select",
+				"selectChannelComponent"
+			],
+			[
+				"sel",
+				"selectedChannelComponent"
+			],
+			[
+				"_sele",
+				"_selectedChannelComponent"
+			],
+			[
+				"ex",
+				"expandable"
+			],
+			[
+				"_regi",
+				"_registerMiscEvents"
+			],
+			[
+				"_reg",
+				"_registerChannelEvents"
+			],
+			[
+				"Chec",
+				"CheckoutPaymentState"
+			],
+			[
+				"expan",
+				"expandChannel"
+			],
+			[
+				"_init",
+				"_initializeViews"
+			],
+			[
+				"ban",
+				"bankVacctNo"
+			],
+			[
+				"trans",
+				"transDt"
+			],
+			[
+				"ba",
+				"barcode"
+			],
+			[
+				"transfer",
+				"transfer_banks	statement"
+			],
+			[
+				"request",
+				"request_method	statement"
+			],
+			[
+				"requ",
+				"request_params	statement"
+			],
+			[
+				"rqeuest",
+				"request_params	statement"
+			],
+			[
+				"MER",
+				"MERCHANT_KEY	statement"
+			],
+			[
+				"ionp",
+				"ionpay_refno	statement"
+			],
+			[
+				"IONPa",
+				"IONPayChannel	class"
+			],
+			[
+				"PAY",
+				"PAY_METHOD	class"
+			],
+			[
+				"payment_chan",
+				"payment_channel_manager	module"
+			],
+			[
+				"Payme",
+				"PaymentChannelCategory"
+			],
+			[
+				"pay",
+				"paymentChannelComponent"
+			],
+			[
+				"m_sel",
+				"m_selectedChannelCat"
+			],
+			[
+				"m_se",
+				"m_selectedChannelId"
+			],
+			[
+				"m_sele",
+				"m_selectedChannelId"
+			],
+			[
+				"m_see",
+				"m_selectedChannelId"
+			],
+			[
+				"new",
+				"newChannelComponent"
+			],
+			[
+				"getSe",
+				"getSelectedComponent"
+			],
+			[
+				"selectedChannelCat",
+				"selectedChannelCat"
+			],
+			[
+				"Chekc",
+				"CheckoutPaymentState"
+			],
+			[
+				"parent",
+				"parentComponent"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 248,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 22,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/index.js",
+			"settings":
+			{
+				"buffer_size": 72,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: a",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/harta01/Desktop/acme/github/mooc/risingstack/nodejs"
+	],
+	"file_history":
+	[
+		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/bridge/loglib/channels/jne.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/mall/buyer/checkout/views/api.py",
+		"/home/harta01/Desktop/Garena/impending-features/demo_website/demo/views.py",
+		"/home/harta01/Desktop/Garena/impending-features/demo_website/demo/wsgi.py",
+		"/home/harta01/Desktop/Garena/impending-features/demo_website/demo/settings.py",
+		"/home/harta01/Desktop/Garena/impending-features/demo_website/common/flask_utils.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/backend/models.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/bridge/loglib/channels/jne/jne.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/bridge/paylib/payout/channels/dragonpay.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/bridge/paylib/channels/dragonpay.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/backend/payment/management/commands/payment_auto_match_v2_2.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/backend/payment/management/commands/payment_auto_match_v1_8_1.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/backend/payment/management/commands/payment_auto_match_v1_8_2.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/backend/logistics/management/commands/update_logistic_request.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/bridge/loglib/channels/report_base.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/backend/logistics/management/commands/process_logistic_update.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/bridge/corelib/utils.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/bridge/loglib/channels/lbc/lbc.py",
+		"/home/harta01/Desktop/scripts/jne-orders~",
+		"/home/harta01/Desktop/scripts/orders",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/common/utils.py",
+		"/home/harta01/Desktop/Garena/impending-features/gxx_website/gxx_admin/templates/index.html",
+		"/home/harta01/Desktop/Garena/impending-features/gxx_website/qr/settings.py",
+		"/home/harta01/Desktop/Garena/impending-features/gxx_website/fbconnect/views.py",
+		"/home/harta01/Desktop/Garena/impending-features/gxx_website/fbconnect/wsgi.py",
+		"/home/harta01/Desktop/Garena/impending-features/gxx_website/gxx_service/views.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/bridge/loglib/channels/lbc/lbc.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/mall/static_dev/pagejs/buyer/cart/module/shipping_fee.js",
+		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/bridge/loglib/logistic_shop_manager.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/bridge/loglib/constant.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/bridge/loglib/logistic_item_manager.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/mall/static_dev/pagejs/shop/item.js",
+		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/bridge/corelib/checkout_manager.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/bridge/loglib/constant.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/celery_tasks/tasks/order_tasks.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/bridge/corelib/checkout_manager.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/common/task_queue/handlers/order_change_handler.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/bridge/loglib/channels/aftership/aftership.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/bridge/loglib/channel_manager.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/webapi/logistics/forms.py",
+		"/home/harta01/Desktop/ionpay_data",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/python_common/dbmodel.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/python_common/tests.py",
+		"/home/harta01/Desktop/jne_api",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/webapi/apilib/decorators.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/webapi/logistics_v2/api.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/webapi/tests/utils/decorators.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/common/logger.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/bridge/loglib/channels/jne/decorators.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/backend/logistics/management/commands/jne_utils.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/bridge/loglib/channels/thaipost/api.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/webapi/logistics/api.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/bridge/loglib/channels/thaipost/thaipost.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/bridge/corelib/cache_manager.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/bridge/shop_service.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/bridge/protobuf/query_server.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/bridge/loglib/channels/jne/api.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/bridge/corelib/constant.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/backend/logistics/channels/gdex.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/beeshop_web/bridge/loglib/channels/jne.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/bridge/loglib/db_manager.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/bridge/corelib/db_manager.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/bridge/loglib/channels/aftership/aftership.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/bridge/loglib/constant.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/bridge/paylib/channels/dragonpay.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/bridge/paylib/payout/channels/dragonpay.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/backend/logistics/channel_discount_views.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/bridge/loglib/channel_manager.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/webapi/logistics/api.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/webapi/logistics/forms.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/beeshop_web/mall/templatetags/orders.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/backend/management/commands/read_binlist.py",
+		"/home/harta01/Desktop/scripts/jne",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/beeshop_web/mall/templates/buyer/payment/virtual_account.html",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/beeshop_web/mall/templates/buyer/payment/bank_transfer_price.html",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/beeshop_web/mall/static_dev/pagejs/buyer/payment/payment_method_list.js",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/beeshop_web/mall/static_dev/pagejs/shop/item.js",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/beeshop_web/mall/static_dev/pagejs/buyer/payment/virtual_account.js",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/webapi/email/refund/views.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/celery_tasks/tasks/email/refund.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/backend/logistics/management/commands/cross_border_utils.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/backend/logistics/management/commands/invalidate_failed_logistic.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/backend/logistics/management/commands/location_utils.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/backend/logistics/management/commands/jne_utils.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/webapi/locations/PH/ph.json",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/bridge/loglib/channels/jne/address_codes.json",
+		"/home/harta01/Desktop/scripts/jne-asf-0",
+		"/home/harta01/Desktop/scripts/jne-orders",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/bridge/loglib/logistic_manager.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/bridge/loglib/channels/jne/jne.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/webapi/locations/ID/id.json",
+		"/home/harta01/Desktop/scripts/jne-update-orders",
+		"/home/harta01/Desktop/scripts/update_payment",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/backend/payment/management/commands/payment_auto_match_v3.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/backend/logistics/management/commands/jne_sync_logistic_status.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/backend/settings.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/python_common/crypt.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/mall/static_dev/pagejs/buyer/wcheckout/wcheckout_base_v2.js",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/webapi/payment/payout/forms.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/webapi/payment/payout/api.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/bridge/corelib/order_manager.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/bridge/corelib/refund_manager.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/bridge/paylib/esun_cc_manager.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/webapi/payout/api.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/bridge/paylib/release_manager.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/bridge/paylib/remittance_manager.py",
+		"/home/harta01/Desktop/Garena/impending-features/lbc/shopee_backend/bridge/protofile/beeshop_db.proto",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/backend/templates/payment/whiteblacklist.html",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/backend/payment/management/commands/payment_auto_match_v3.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/mall/templates/buyer/payment/bank_transfer_upload.html",
+		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/mall/urls.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/mall/buyer/payment/views/ui.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/bridge/paylib/channels/bank_transfer.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/backend/payment/management/commands/payment_auto_match.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/backend/payment/management/commands/payment_auto_match_v2_1.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/backend/payment/management/commands/payment_auto_match_v4.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/backend/payment/management/commands/payment_auto_match_v2_no_match.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/backend/payment/management/commands/payment_auto_match_v2.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/backend/payment/forms.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/bridge/paylib/constant.py",
+		"/home/harta01/Desktop/demo/async.py",
+		"/home/harta01/Desktop/demo/generator.py",
+		"/home/harta01/Desktop/demo/sync.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/celery_tasks/tasks/logistics/vn_viettel_post_get_status.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/mall/templates/seller/logistics/dropoff.html",
+		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/mall/seller/logistics/views/api.py",
+		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/mall/static_dev/pagejs/seller/logistics/extended_dropoff.js",
+		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/bridge/loglib/channels/channel_base.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"', '",
+			"",
+			", ",
+			"",
+			"~/Desktop/Garena/impending-features/job-cron/shopee_backend/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"resetCoupon",
+			"CHECKOUT_COUPON_BANKS",
+			"print",
+			"error_handler",
+			"response_http_",
+			"log_request",
+			"response_http_400",
+			"KAB MADIUN",
+			"BANGKA BELITUNG",
+			"KAB. TAPANULI TENGAH",
+			"BuyerAddress",
+			"get_address_code_for_online_booking",
+			"Address",
+			"parse_calculate_cost_address",
+			"channel_class",
+			"update_logistic_status",
+			"update_logistic",
+			"jne_get_status",
+			"ORDER_FINAL",
+			"ORDER_FINALIZED",
+			"Seller clicks arrange",
+			"reply = ",
+			"except",
+			"reply",
+			"except:",
+			"try:",
+			"Arguments:\n",
+			"CGK1000",
+			">>>>>",
+			">>>>>>> master",
+			">>>>>>",
+			"bridge/loglib/channels/jne/jne.py",
+			"supported_",
+			"filter",
+			"bank_account_filter",
+			"from bridge.corelib import utils as corelib_utils",
+			"_logistic_request_writer",
+			"HOST = '",
+			"def run_app",
+			"make_response",
+			"garena_q",
+			"response_http_400",
+			"buyer_first_name",
+			"possible_discount",
+			"discount_extra",
+			"minordertotal",
+			"off shipping with min",
+			"off shipping iwht min",
+			"min",
+			"JNEReportManager().process_logistic_update_async(logistic.logid)",
+			"__check_consignment",
+			"return insert_res",
+			"TODO",
+			"create_jne_consignment_reques",
+			"set_order_logistics_status",
+			"set_order",
+			"create_jne_consignment_request",
+			"parse_logistic_update",
+			"LOGSTATUS_FINAL_STATES",
+			"vn_viettel_post_get_status",
+			"celery_send_task",
+			"vn_viettel_post_get_status",
+			"render_place_order_bank_transfer_buyer",
+			"vn_viettel_post_get_status",
+			"celery_task",
+			"_async",
+			"celery_tas",
+			"post_process_payoneer_payouts",
+			"send_payout_async",
+			"update_logistic_status",
+			"_parse_logistic_update",
+			"_parse_",
+			"process_logistic_update",
+			"process_logistic_update(",
+			"process_logistic_update",
+			"clean_consignment_no",
+			"JNEHTTPManager",
+			"__check_consign",
+			"__check_consignment",
+			"channel_status_mapping",
+			"D01', 'D02', 'D03', 'D04', 'D05', 'D06', ",
+			"allow_none",
+			"channel_status_",
+			"channel_status_mapping",
+			"process_logistic_update",
+			"parse_logistic_update",
+			"_parse_logistic_update",
+			"JNE_NONFINAL_STATUS_MAPPING",
+			"query_data",
+			"channel_status",
+			"logistic_log_manager.",
+			"logistic_log_manager",
+			"channel_status_mapping",
+			"create_logistic_request",
+			"_create_logistic_request",
+			"insert_",
+			"third",
+			"third_p",
+			"third_part",
+			"JNE_DOWN_ERROR_MESSAGE",
+			"error_pending_consignment",
+			"__parse",
+			"__query_jne",
+			"get_price",
+			"__check_consignment",
+			"create_logistic_request",
+			"__check_consignment",
+			"_mark_jne_failing",
+			"_get_unsupported_address_cost_data",
+			"BASIC_SIZE_UNIT",
+			"_scale_price_to_size",
+			"_parse_price_data",
+			"init_db",
+			"dbmodel",
+			"import db",
+			"JNEHTTPManager",
+			"JAKARTA_CITY_CODE",
+			"webapi_app_api",
+			">>>>",
+			"jne_channel",
+			"warning",
+			"log.",
+			"log",
+			"JNESettings",
+			"from decorator import decorator",
+			"error_params",
+			"get_address_code",
+			"JNEAddress"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"', '",
+			"msg_bank_bni_virtual_account_",
+			"msg_bank_bni_virtual_account_atm_instruction",
+			"', '",
+			"",
+			"', '",
+			", ",
+			"\"",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								248,
+								248
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 72,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 109.0
+	},
+	"pinned_build_system": "",
+	"project": "nodejs.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"p",
+				"package.json"
+			],
+			[
+				"checkout_paymn",
+				"mall/static_dev/pagejs/buyer/payment/module/checkout_payment_v2.js"
+			],
+			[
+				"api.py",
+				"mall/buyer/checkout/views/api.py"
+			],
+			[
+				"jne",
+				"bridge/loglib/channels/jne.py"
+			],
+			[
+				"flas",
+				"common/flask_utils.py"
+			],
+			[
+				"wsg",
+				"demo/wsgi.py"
+			],
+			[
+				"view",
+				"demo/views.py"
+			],
+			[
+				"demo/vi",
+				"demo/views.py"
+			],
+			[
+				"flastk",
+				"common/flask_utils.py"
+			],
+			[
+				"id.json",
+				"webapi/locations/ID/id.json"
+			],
+			[
+				"beeshop",
+				"bridge/protofile/beeshop_db.proto"
+			],
+			[
+				"backend/models",
+				"backend/models.py"
+			],
+			[
+				"channel_base",
+				"bridge/loglib/channels/channel_base.py"
+			],
+			[
+				"celery/jne",
+				"celery_tasks/tasks/logistics/jne.py"
+			],
+			[
+				"loglib/con",
+				"bridge/loglib/constant.py"
+			],
+			[
+				"jne/ap",
+				"bridge/loglib/channels/jne/api.py"
+			],
+			[
+				"bridge/loglib/channels/jne/jne.py",
+				"bridge/loglib/channels/jne/jne.py"
+			],
+			[
+				"dragon",
+				"bridge/paylib/payout/channels/dragonpay.py"
+			],
+			[
+				"payment_auto_",
+				"backend/payment/management/commands/payment_auto_match_v2_2.py"
+			],
+			[
+				"payment_uat",
+				"backend/payment/management/commands/payment_auto_match_v2_2.py"
+			],
+			[
+				"jne/__i",
+				"bridge/loglib/channels/jne/__init__.py"
+			],
+			[
+				"loglib/channels/",
+				"bridge/loglib/channels/__init__.py"
+			],
+			[
+				"logistics",
+				"logistics/__init__.py"
+			],
+			[
+				"common/ut",
+				"common/utils.py"
+			],
+			[
+				"coreli/ut",
+				"bridge/corelib/utils.py"
+			],
+			[
+				"lbc",
+				"bridge/loglib/channels/lbc/lbc.py"
+			],
+			[
+				"corelib/ut",
+				"bridge/corelib/utils.py"
+			],
+			[
+				"update_logis",
+				"backend/logistics/management/commands/update_logistic_request.py"
+			],
+			[
+				"process_logi",
+				"backend/logistics/management/commands/process_logistic_update.py"
+			],
+			[
+				"views",
+				"gxx_service/views.py"
+			],
+			[
+				"wsgi",
+				"fbconnect/wsgi.py"
+			],
+			[
+				"index",
+				"gxx_admin/templates/index.html"
+			],
+			[
+				"qr/se",
+				"qr/settings.py"
+			],
+			[
+				"settings",
+				"demo/settings.py"
+			],
+			[
+				"checkout_mana",
+				"bridge/corelib/checkout_manager.py"
+			],
+			[
+				"item.js",
+				"mall/static_dev/pagejs/shop/item.js"
+			],
+			[
+				"jne.py",
+				"celery_tasks/tasks/logistics/jne.py"
+			],
+			[
+				"cache_manag",
+				"bridge/corelib/cache_manager.py"
+			],
+			[
+				"celery_tasks/tasks/__ini",
+				"celery_tasks/tasks/__init__.py"
+			],
+			[
+				"tasks/init",
+				"celery_tasks/__init__.py"
+			],
+			[
+				"order_tasks",
+				"celery_tasks/tasks/order_tasks.py"
+			],
+			[
+				"order_ma",
+				"bridge/corelib/order_manager.py"
+			],
+			[
+				"celery_tasks/tasks/ema",
+				"celery_tasks/tasks/email/order.py"
+			],
+			[
+				"celerytaskvnviettel",
+				"celery_tasks/tasks/logistics/vn_viettel_post_get_status.py"
+			],
+			[
+				"order_han",
+				"common/task_queue/handlers/order_change_handler.py"
+			],
+			[
+				"payonee",
+				"celery_tasks/tasks/payout/payoneer.py"
+			],
+			[
+				"payoneer",
+				"celery_tasks/tasks/payout/payoneer.py"
+			],
+			[
+				"webapi/logistics/api",
+				"webapi/logistics/api.py"
+			],
+			[
+				"afters",
+				"bridge/loglib/channels/aftership/aftership.py"
+			],
+			[
+				"jne/api",
+				"bridge/loglib/channels/jne/api.py"
+			],
+			[
+				"dbmodel",
+				"python_common/dbmodel.py"
+			],
+			[
+				"jne_add",
+				"bridge/loglib/channels/jne/jne_address.py"
+			],
+			[
+				"logistics_v2",
+				"webapi/logistics_v2/api.py"
+			],
+			[
+				"jne_ut",
+				"backend/logistics/management/commands/jne_utils.py"
+			],
+			[
+				"jne_util",
+				"backend/logistics/management/commands/jne_utils.py"
+			],
+			[
+				"paylib/con",
+				"bridge/paylib/constant.py"
+			],
+			[
+				"thaipost/api",
+				"bridge/loglib/channels/thaipost/api.py"
+			],
+			[
+				"decorat",
+				"webapi/apilib/decorators.py"
+			],
+			[
+				"log.p",
+				"common/logger.py"
+			],
+			[
+				"decora",
+				"webapi/tests/utils/decorators.py"
+			],
+			[
+				"webapi/dec",
+				"webapi/apilib/decorators.py"
+			],
+			[
+				"channel_",
+				"bridge/loglib/channel_manager.py"
+			],
+			[
+				"thaipo",
+				"bridge/loglib/channels/thaipost/thaipost.py"
+			],
+			[
+				"aftershi",
+				"bridge/loglib/channels/aftership/aftership.py"
+			],
+			[
+				"corelib/con",
+				"bridge/corelib/constant.py"
+			],
+			[
+				"cache_man",
+				"bridge/corelib/cache_manager.py"
+			],
+			[
+				"cache_manager",
+				"bridge/corelib/cache_manager.py"
+			],
+			[
+				"process_logistic_update",
+				"backend/logistics/management/commands/process_logistic_update.py"
+			],
+			[
+				"setting",
+				"backend/settings.py"
+			],
+			[
+				"corelib/c",
+				"bridge/corelib/constant.py"
+			],
+			[
+				"addres_co",
+				"bridge/loglib/channels/jne/address_codes.json"
+			],
+			[
+				"gdex",
+				"bridge/loglib/channels/gdex.py"
+			],
+			[
+				"shop_ser",
+				"bridge/shop_service.py"
+			],
+			[
+				"thaipost/api.",
+				"bridge/loglib/channels/thaipost/api.py"
+			],
+			[
+				"ninjava",
+				"bridge/loglib/channels/ninjavan.py"
+			],
+			[
+				"paymnet_method_li",
+				"mall/static_dev/pagejs/buyer/payment/payment_method_list.js"
+			],
+			[
+				"virtual_ac",
+				"mall/static_dev/pagejs/buyer/payment/virtual_account.js"
+			],
+			[
+				"virtual_",
+				"mall/templates/buyer/payment/virtual_account.html"
+			],
+			[
+				"paylib/chann",
+				"bridge/paylib/channel_manager.py"
+			],
+			[
+				"channel_manager",
+				"bridge/loglib/channel_manager.py"
+			],
+			[
+				"loglib/db_",
+				"bridge/loglib/db_manager.py"
+			],
+			[
+				"db_mana",
+				"bridge/corelib/db_manager.py"
+			],
+			[
+				"bridge/loglib/channels/aftership/aftership.py",
+				"bridge/loglib/channels/aftership/aftership.py"
+			],
+			[
+				"order_amn",
+				"bridge/corelib/order_manager.py"
+			],
+			[
+				"address_",
+				"bridge/loglib/channels/jne/address_codes.json"
+			],
+			[
+				"webapi/logistics/",
+				"webapi/logistics/api.py"
+			],
+			[
+				"channel_m",
+				"bridge/loglib/channel_manager.py"
+			],
+			[
+				"jne_sy",
+				"backend/logistics/management/commands/jne_sync_logistic_status.py"
+			],
+			[
+				"create_logi",
+				"backend/logistics/management/commands/create_logistic_request.py"
+			],
+			[
+				"bank_transfer_pri",
+				"mall/templates/buyer/payment/bank_transfer_price.html"
+			],
+			[
+				"payment_method_list.js",
+				"mall/static_dev/pagejs/buyer/payment/payment_method_list.js"
+			],
+			[
+				"virtu",
+				"mall/static_dev/pagejs/buyer/payment/virtual_account.js"
+			],
+			[
+				"virtual_a",
+				"mall/templates/buyer/payment/virtual_account.html"
+			],
+			[
+				"ph.jso",
+				"webapi/locations/PH/ph.json"
+			],
+			[
+				"ph.json",
+				"webapi/locations/PH/ph.json"
+			],
+			[
+				"address_js",
+				"bridge/loglib/channels/jne/address_codes.json"
+			],
+			[
+				"invalid",
+				"backend/logistics/management/commands/invalidate_failed_logistic.py"
+			],
+			[
+				"cross_border",
+				"backend/logistics/management/commands/cross_border_utils.py"
+			],
+			[
+				"location_util",
+				"backend/logistics/management/commands/location_utils.py"
+			],
+			[
+				"location_ut",
+				"backend/logistics/management/commands/location_utils.py"
+			],
+			[
+				"payment_auto_match",
+				"backend/payment/management/commands/payment_auto_match_v3.py"
+			],
+			[
+				"logistic_m",
+				"bridge/loglib/logistic_manager.py"
+			],
+			[
+				"cross_bo",
+				"backend/logistics/management/commands/cross_border_utils.py"
+			],
+			[
+				"jne_uti",
+				"backend/logistics/management/commands/jne_utils.py"
+			],
+			[
+				"python_common/cry",
+				"python_common/crypt.py"
+			],
+			[
+				"settin",
+				"backend/settings.py"
+			],
+			[
+				"jne_syn",
+				"backend/logistics/management/commands/jne_sync_logistic_status.py"
+			],
+			[
+				"_v2.js",
+				"mall/static_dev/pagejs/buyer/payment/select_channel_v2.js"
+			],
+			[
+				"coupon.js",
+				"mall/static_dev/pagejs/buyer/checkout/Coupon.js"
+			],
+			[
+				"checkout.js",
+				"mall/static_dev/pagejs/buyer/checkout/checkout.js"
+			],
+			[
+				"checkout_payment.js",
+				"mall/static_dev/pagejs/buyer/checkout/checkout_payment.js"
+			],
+			[
+				"confirmation_v2.",
+				"mall/static_dev/pagejs/buyer/wcheckout/confirmation_v2.js"
+			],
+			[
+				"checkout_payment_v2",
+				"mall/static_dev/pagejs/buyer/payment/module/checkout_payment_v2.js"
+			],
+			[
+				"confirmation_v2",
+				"mall/static_dev/pagejs/buyer/wcheckout/confirmation_v2.js"
+			],
+			[
+				"remitta",
+				"bridge/paylib/remittance_manager.py"
+			],
+			[
+				"release_ma",
+				"bridge/paylib/release_manager.py"
+			],
+			[
+				"order_man",
+				"bridge/corelib/order_manager.py"
+			],
+			[
+				"refund_manager",
+				"bridge/corelib/refund_manager.py"
+			],
+			[
+				"order_",
+				"bridge/corelib/order_manager.py"
+			],
+			[
+				"webapi/payment/payou",
+				"webapi/payment/payout/api.py"
+			],
+			[
+				"webapi/payout/api",
+				"webapi/payout/api.py"
+			],
+			[
+				"dra",
+				"bridge/paylib/payout/channels/dragonpay.py"
+			],
+			[
+				"wcheckout/view",
+				"mall/buyer/wcheckout/views.py"
+			],
+			[
+				"whiteblac",
+				"backend/templates/payment/whiteblacklist.html"
+			],
+			[
+				"payment_atu",
+				"backend/payment/management/commands/payment_auto_match_v2_2.py"
+			],
+			[
+				"payment_aut",
+				"backend/payment/management/commands/payment_auto_match_v3.py"
+			],
+			[
+				"bank_transfer_upload.",
+				"mall/templates/buyer/payment/bank_transfer_upload.html"
+			],
+			[
+				"mall/ur",
+				"mall/urls.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1279.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
