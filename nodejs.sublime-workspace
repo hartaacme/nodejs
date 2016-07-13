@@ -519,30 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "package.json",
-			"settings":
-			{
-				"buffer_size": 248,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.js",
-			"settings":
-			{
-				"buffer_size": 22,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/index.js",
-			"settings":
-			{
-				"buffer_size": 72,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -551,10 +527,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "",
+		"height": 54.0,
+		"last_filter": "valida",
 		"selected_items":
 		[
+			[
+				"valida",
+				"Pretty JSON: Validate"
+			],
 			[
 				"",
 				"Package Control: Install Package"
@@ -572,7 +552,7 @@
 				"Package Control: Add Repository"
 			]
 		],
-		"width": 485.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -597,6 +577,13 @@
 	],
 	"file_history":
 	[
+		"/home/harta01/Desktop/acme/github/mooc/risingstack/nodejs/nodejs.sublime-project",
+		"/home/harta01/Desktop/acme/github/mooc/risingstack/nodejs/app/calc.js",
+		"/home/harta01/Desktop/acme/github/mooc/risingstack/nodejs/index.js",
+		"/home/harta01/Desktop/acme/github/mooc/risingstack/nodejs/package.json",
+		"/home/harta01/Desktop/acme/github/mooc/risingstack/nodejs/app/index.js",
+		"/home/harta01/Desktop/acme/github/mooc/risingstack/nodejs/.gitignore",
+		"/home/harta01/Desktop/acme/github/mooc/egghead/webpack/webpack/webpack.sublime-project",
 		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/bridge/loglib/channels/jne.py",
 		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/mall/buyer/checkout/views/api.py",
 		"/home/harta01/Desktop/Garena/impending-features/demo_website/demo/views.py",
@@ -717,14 +704,7 @@
 		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/backend/payment/management/commands/payment_auto_match_v2.py",
 		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/backend/payment/forms.py",
 		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/bridge/paylib/constant.py",
-		"/home/harta01/Desktop/demo/async.py",
-		"/home/harta01/Desktop/demo/generator.py",
-		"/home/harta01/Desktop/demo/sync.py",
-		"/home/harta01/Desktop/Garena/impending-features/jne/shopee_backend/celery_tasks/tasks/logistics/vn_viettel_post_get_status.py",
-		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/mall/templates/seller/logistics/dropoff.html",
-		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/mall/seller/logistics/views/api.py",
-		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/mall/static_dev/pagejs/seller/logistics/extended_dropoff.js",
-		"/home/harta01/Desktop/Garena/impending-features/jne/beeshop_web/bridge/loglib/channels/channel_base.py"
+		"/home/harta01/Desktop/demo/async.py"
 	],
 	"find":
 	{
@@ -749,6 +729,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"$primary",
 			"resetCoupon",
 			"CHECKOUT_COUPON_BANKS",
 			"print",
@@ -875,8 +856,7 @@
 			"JNESettings",
 			"from decorator import decorator",
 			"error_params",
-			"get_address_code",
-			"JNEAddress"
+			"get_address_code"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -903,93 +883,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "package.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 248,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								248,
-								248
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 22,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								22,
-								22
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/index.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 72,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								72,
-								72
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1045,6 +940,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"packag",
+				"package.json"
+			],
 			[
 				"p",
 				"package.json"
@@ -1552,10 +1451,6 @@
 			[
 				"bank_transfer_upload.",
 				"mall/templates/buyer/payment/bank_transfer_upload.html"
-			],
-			[
-				"mall/ur",
-				"mall/urls.py"
 			]
 		],
 		"width": 0.0
